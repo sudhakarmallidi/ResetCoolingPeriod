@@ -1,7 +1,24 @@
 .App {
   text-align: center;
 }
-
+.Body {
+  align-content: center;
+  background-color: rgb(87, 89, 87); 
+  height: 80%;
+  width: 80%;
+ }
+ .Container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+ .Body1 {
+  align-content: center;
+  background-color: rgb(87, 89, 87); 
+  height: 80%;
+  width: 80%;
+ }
 .App-logo {
   height: 40vmin;
   pointer-events: none;
